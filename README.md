@@ -57,4 +57,3 @@ To use the application, simply:
 3. **Create Pages:** Once logged in, you'll see your page dashboard. Click the "New Page" button to open the editor and create your first page.
 
 4. **Edit & Delete:** From the dashboard, you can choose to edit or delete any of the pages you have created.
-```
